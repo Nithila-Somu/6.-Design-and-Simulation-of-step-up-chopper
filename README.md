@@ -44,7 +44,6 @@ Voltage Ripple (∆V) = 20mV
 Current Ripple (∆I) = 2A
 ## Formulas to be Used
 <img width="820" height="689" alt="image" src="https://github.com/user-attachments/assets/f5e1cdde-bffa-4339-b049-5fc8416f3f87" />
-<img width="1464" height="794" alt="image" src="https://github.com/user-attachments/assets/6d3008a5-edde-4cca-b560-1e78e295a39d" />
 
 ## Simulation
 <img width="1464" height="794" alt="image" src="https://github.com/user-attachments/assets/1177fdf4-49e4-4825-9aa3-7dc885e02ea5" />
