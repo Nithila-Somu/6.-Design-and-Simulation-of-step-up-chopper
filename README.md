@@ -43,8 +43,11 @@ Switching Frequency (Fs) = 40 KHz
 Voltage Ripple (∆V) = 20mV
 Current Ripple (∆I) = 2A
 ## Formulas to be Used
-<img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
+<img width="820" height="689" alt="image" src="https://github.com/user-attachments/assets/f5e1cdde-bffa-4339-b049-5fc8416f3f87" />
 
 ## Simulation
+<img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 ## Output
+<img width="1919" height="1106" alt="image" src="https://github.com/user-attachments/assets/5cadb257-a0c2-4f8f-aa69-663cc618f61c" />
 ## Result
+Thus the set up chopper is designed and simulated using MATLAB simulink.
