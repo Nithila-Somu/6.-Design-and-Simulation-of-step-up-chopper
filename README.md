@@ -50,5 +50,6 @@ Current Ripple (∆I) = 2A
 
 ## Output
 <img width="1919" height="1106" alt="image" src="https://github.com/user-attachments/assets/5cadb257-a0c2-4f8f-aa69-663cc618f61c" />
+
 ## Result
 Thus the set up chopper is designed and simulated using MATLAB simulink.
